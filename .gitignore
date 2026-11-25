@@ -1,0 +1,13 @@
+# heavy binaries – track with Git LFS if you want them versioned
+assets/**/*.blend1
+assets/**/*.glb
+assets/**/*.gltf
+assets/**/*.bin
+assets/**/*.fbx
+assets/**/*.obj
+assets/**/*.ktx2
+assets/**/*.exr
+models/
+__pycache__/
+node_modules/
+.claude/settings.local.json
